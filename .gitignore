@@ -1,8 +1,6 @@
-# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
-
 *.iml
-
-## Directory-based project format:
+.DS_Store
+node_modules
 .idea/
 
 
